@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.editor.showTabs": true
+	}
+}
